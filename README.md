@@ -135,11 +135,13 @@ The `outputs/` folder is intentionally ignored by Git so generated files do not 
 
 ## Example Plots And Screenshots
 
-These paths are placeholders for portfolio screenshots that can be added later:
+The screenshots below are generated from the Version 1.0 demo and MATLAB app workflow.
 
-![App Interface](outputs/screenshots/app_interface.png)
-![Trajectory Results](outputs/screenshots/trajectory_results.png)
-![Monte Carlo Results](outputs/screenshots/monte_carlo_results.png)
+![App Interface](docs/screenshots/app_interface.png)
+
+![Trajectory Results](docs/screenshots/trajectory_results.png)
+
+![Monte Carlo Results](docs/screenshots/monte_carlo_results.png)
 
 ## Project Structure
 
@@ -185,7 +187,6 @@ Important limitations:
 
 ## Future Work
 
-- Add curated screenshot assets under `outputs/screenshots/` or a tracked `docs/screenshots/` folder.
 - Add a lightweight automated smoke-test script for all noninteractive stages.
 - Improve app export workflows and summary tables.
 - Add optional validation against open textbook examples.

@@ -35,3 +35,6 @@ exports/
 Thumbs.db
 .vscode/
 .idea/
+# Keep README screenshot assets tracked.
+!docs/screenshots/
+!docs/screenshots/*.png
